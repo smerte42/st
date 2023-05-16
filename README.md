@@ -18,10 +18,20 @@ how to install
 ------------------------------
 WARNING:
 
-I'm not associalated with Luke in anyway shape and form I just like his st configurations.
+I'm not associalated with Luke in anyway shape and form I just like his st configurations so I made modifications to it.
 
 ------------------------------
 
 I just relize
 
 I could've just fork it
+
+------------------------------
+
+still support Luke Smith:
+
+His YouTube: https://www.youtube.com/@LukeSmithxyz
+
+His GitHub: https://github.com/LukeSmithxyz
+
+His website: https://lukesmith.xyz/
