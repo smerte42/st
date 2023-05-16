@@ -19,3 +19,9 @@ how to install
 WARNING:
 
 I'm not associalated with Luke in anyway shape and form I just like his st configurations.
+
+------------------------------
+
+I just relize
+
+I could've just fork it
