@@ -11,7 +11,7 @@ https://st.suckless.org/
 ------------------------------
 how to install
 
-1. put in: git clone https://github.com/smerte42/st/new/root?readme=1
+1. put in: git clone https://github.com/smerte42/st
 2. put in: cd st/
 3. put in: sudo make install
 
