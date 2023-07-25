@@ -22,7 +22,7 @@ I'm not associalated with Luke in anyway shape and form I just like his st confi
 
 ------------------------------
 
-I just relize
+I just realise
 
 I could've just fork it
 
